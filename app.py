@@ -9,5 +9,10 @@ def home():
 def info():
     return "This is info page.."
 
+@app.route('/flaskapp')
+def flaskapp():
+    return "This is flask app"
+
+
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
