@@ -130,8 +130,6 @@ In the Schedule box, enter:
 * * * * *
 ```
 
-🔹 This means:
-
 Poll every  minutes. 
 ---
 
@@ -155,10 +153,3 @@ You've now fully automated:
 * Add rollback step on test failure
 
 ---
-
-```
-
----
-
-Would you like this saved as a `.md` file download? Or want the GitHub webhook guide next?
-```
